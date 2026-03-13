@@ -21,11 +21,11 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 | Route | Description |
 |-------|-------------|
-| `/` | Landing page with value props and "Apply Now" CTA |
 | `/apply` | Multi-step loan application form |
 | `/status/app-001` | Approved application (Jane Doe) |
 | `/status/app-002` | Denied application (Bob Smith) |
 | `/status/app-003` | Flagged application (Bob Smith, small loan) |
+| `/status/app-004` | Flagged application (Jane Doe, big loan) |
 | `/status/app-005` | Flagged — no documents (Carol Tester) |
 | `/status/app-006` | Denied — income mismatch edge case (Dave Liar) |
 | `/admin` | Admin review dashboard |
