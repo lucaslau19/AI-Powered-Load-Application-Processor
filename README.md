@@ -51,7 +51,6 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 - **Real Document Processing:** Some form of scraping pipeline for pay stubs and bank statements
 - **Fraud Escalation Workflow:** Dedicated fraud review queue with case management
-- **A/B Test Denial Messaging:** Test different tones and CTAs on the denial screen to optimize reapplication rates
 - **Analytics Dashboard:** With real data, have the admin analytics dashboard update in real time (currently uses fake data)
 - **Authentication:** Role-based access (applicant vs. reviewer vs. admin)
 - **Email Notifications:** Actual notification pipeline for status changes
