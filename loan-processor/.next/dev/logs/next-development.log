@@ -1,0 +1,417 @@
+[00:00:01.164] Server  LOG     ✓ Ready in 874ms
+[00:00:02.212] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.325] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:13.069] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:41.932] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:13.399] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:15.366] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:15.544] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-005", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-005" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 6:15:00 AM
+-                                   2025-01-15, 6:15:00 a.m.
+                                ...
+                            ...
+
+[00:02:16.616] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:17.600] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:19.939] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:49.293] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:26.377] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:27.735] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:27.880] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-005", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-005" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 6:15:00 AM
+-                                   2025-01-15, 6:15:00 a.m.
+                                ...
+                            ...
+
+[00:03:39.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:40.708] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:40.849] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-003", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-003" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 5:30:00 AM
+-                                   2025-01-15, 5:30:00 a.m.
+                                ...
+                            ...
+
+[00:03:42.121] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:44.264] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:45.252] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:46.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:48.186] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:48.990] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:49.137] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-003", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-003" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 5:30:00 AM
+-                                   2025-01-15, 5:30:00 a.m.
+                                ...
+                            ...
+
+[00:04:01.410] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:02.579] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:02.732] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-005", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-005" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 6:15:00 AM
+-                                   2025-01-15, 6:15:00 a.m.
+                                ...
+                            ...
+
+[00:04:05.899] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:09.724] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:09.869] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-003", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-003" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 5:30:00 AM
+-                                   2025-01-15, 5:30:00 a.m.
+                                ...
+                            ...
+
+[00:04:10.467] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:11.109] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:11.847] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:03.275] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:44.796] Server  LOG     ✓ Compiled in 77ms
+[00:05:51.564] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:01.430] Server  LOG     ✓ Compiled in 41ms
+[00:07:36.027] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:37.808] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:39.558] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:40.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:50.158] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:51.041] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:51.202] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-005", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-005" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 6:15:00 AM
+-                                   2025-01-15, 6:15:00 a.m.
+                                ...
+                            ...
+
+[00:07:53.931] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:55.069] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:55.220] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-003", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-003" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 5:30:00 AM
+-                                   2025-01-15, 5:30:00 a.m.
+                                ...
+                            ...
+
+[00:08:02.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:04.453] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:42.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:49.897] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:50.056] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <AdminDetailPage params={Promise} searchParams={Promise}>
+      <div className="mx-auto ma...">
+        <AdminAppDetail app={{id:"app-005", ...}}>
+          <div className="animate-fa...">
+            <_c>
+            <div>
+            <div>
+            <div className="grid grid-...">
+              <div>
+              <div className="space-y-6">
+                <_c>
+                  <div ref={null} className="rounded-2x...">
+                    <_c8 className="pt-6">
+                      <div ref={null} className="p-6 pt-6">
+                        <ReviewerNotes appId="app-005" notes={[...]} onAddNote={function onAddNote}>
+                          <div className="space-y-4">
+                            <div>
+                            <div className="space-y-3 ...">
+                              <div className="rounded-lg...">
+                                <div className="flex items...">
+                                  <span>
+                                  <span className="text-xs text-muted-foreground">
++                                   1/15/2025, 6:15:00 AM
+-                                   2025-01-15, 6:15:00 a.m.
+                                ...
+                            ...
+
+[00:08:52.547] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:56.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:03.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:22.619] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:29.285] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:31.885] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:52.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:29.377] Server  LOG     ✓ Compiled in 110ms
+[00:14:15.003] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:40.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:48.926] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:50.490] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:04.576] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:11.510] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:18.004] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:01.417] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:02.798] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
